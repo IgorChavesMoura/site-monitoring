@@ -1,0 +1,3 @@
+Sunday 02/08/2020 23:18:12 - https://random-status-code.herokuapp.com/ - online: false
+Sunday 02/08/2020 23:18:13 - https://www.alura.com.br - online: true
+Sunday 02/08/2020 23:18:14 - https://www.caelum.com.br - online: true
